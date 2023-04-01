@@ -1,2 +1,2 @@
 print("Hola Mundo!!!")
-print(type("Hola Mundo"))
+print(type("Hola Mundo1"))
